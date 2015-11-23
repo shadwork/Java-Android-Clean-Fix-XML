@@ -18,4 +18,4 @@ For example, put AndroidCleanFixXml.jar in Android Studio Project root folder an
 
 If you have problems with strange %{names} inside resulted xml just open Main.java and add value from {inside} to PHRASE_STRING, PHRASE_DECIMAL or PHRASE_FLOAT. Choose right constant to get %s or %d.
 
-#### WARNING! Tools not using temp files! Be careful before using, BUCKUP or PUSH!   
+##### WARNING! Tools not using temp files! Be careful before using, BUCKUP or PUSH!   
